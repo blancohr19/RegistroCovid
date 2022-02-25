@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234947966006",
+    "firebase_url": "https://registrocovidp.firebaseio.com",
+    "project_id": "registrocovidp",
+    "storage_bucket": "registrocovidp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234947966006:android:ce35ad40327410c315d497",
+        "android_client_info": {
+          "package_name": "com.example.registrocovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234947966006-lleb60lilu2lbmh4t1sshummq2sjac78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82w0hnUePldn6wI1W5kdmJEUZA6O0odk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234947966006-lleb60lilu2lbmh4t1sshummq2sjac78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
